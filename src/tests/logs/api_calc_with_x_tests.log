@@ -1,0 +1,9 @@
+Running suite api_calc_with_x
+tests/controller_tests.c:339:P:core_of_api_calc_with_x:api_calc_with_x_opt_1:0: Passed
+tests/controller_tests.c:348:P:core_of_api_calc_with_x:api_calc_with_x_opt_2:0: Passed
+tests/controller_tests.c:357:P:core_of_api_calc_with_x:api_calc_with_x_opt_3:0: Passed
+tests/controller_tests.c:366:P:core_of_api_calc_with_x:api_calc_with_x_opt_4:0: Passed
+tests/controller_tests.c:375:P:core_of_api_calc_with_x:api_calc_with_x_opt_5:0: Passed
+tests/controller_tests.c:384:P:core_of_api_calc_with_x:api_calc_with_x_opt_6:0: Passed
+Results for all suites run:
+100%: Checks: 6, Failures: 0, Errors: 0

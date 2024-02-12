@@ -1,0 +1,38 @@
+Running suite api_calc
+tests/controller_tests.c:8:P:core_of_api_calc:api_calc_opt_1:0: Passed
+tests/controller_tests.c:16:P:core_of_api_calc:api_calc_opt_2:0: Passed
+tests/controller_tests.c:25:P:core_of_api_calc:api_calc_opt_3:0: Passed
+tests/controller_tests.c:34:P:core_of_api_calc:api_calc_opt_4:0: Passed
+tests/controller_tests.c:42:P:core_of_api_calc:api_calc_opt_5:0: Passed
+tests/controller_tests.c:53:P:core_of_api_calc:api_calc_opt_6:0: Passed
+tests/controller_tests.c:62:P:core_of_api_calc:api_calc_opt_7:0: Passed
+tests/controller_tests.c:70:P:core_of_api_calc:api_calc_opt_8:0: Passed
+tests/controller_tests.c:79:P:core_of_api_calc:api_calc_opt_9:0: Passed
+tests/controller_tests.c:88:P:core_of_api_calc:api_calc_opt_10:0: Passed
+tests/controller_tests.c:96:P:core_of_api_calc:api_calc_opt_11:0: Passed
+tests/controller_tests.c:104:P:core_of_api_calc:api_calc_opt_12:0: Passed
+tests/controller_tests.c:113:P:core_of_api_calc:api_calc_opt_13:0: Passed
+tests/controller_tests.c:122:P:core_of_api_calc:api_calc_opt_14:0: Passed
+tests/controller_tests.c:132:P:core_of_api_calc:api_calc_opt_15:0: Passed
+tests/controller_tests.c:142:P:core_of_api_calc:api_calc_opt_16:0: Passed
+tests/controller_tests.c:152:P:core_of_api_calc:api_calc_opt_17:0: Passed
+tests/controller_tests.c:162:P:core_of_api_calc:api_calc_opt_18:0: Passed
+tests/controller_tests.c:172:P:core_of_api_calc:api_calc_opt_19:0: Passed
+tests/controller_tests.c:182:P:core_of_api_calc:api_calc_opt_20:0: Passed
+tests/controller_tests.c:192:P:core_of_api_calc:smartCalc_incorrect_1:0: Passed
+tests/controller_tests.c:202:P:core_of_api_calc:smartCalc_incorrect_2:0: Passed
+tests/controller_tests.c:212:P:core_of_api_calc:smartCalc_incorrect_3:0: Passed
+tests/controller_tests.c:222:P:core_of_api_calc:smartCalc_incorrect_4:0: Passed
+tests/controller_tests.c:232:P:core_of_api_calc:smartCalc_incorrect_5:0: Passed
+tests/controller_tests.c:242:P:core_of_api_calc:smartCalc_incorrect_6:0: Passed
+tests/controller_tests.c:252:P:core_of_api_calc:smartCalc_incorrect_7:0: Passed
+tests/controller_tests.c:262:P:core_of_api_calc:smartCalc_incorrect_8:0: Passed
+tests/controller_tests.c:272:P:core_of_api_calc:smartCalc_incorrect_9:0: Passed
+tests/controller_tests.c:282:P:core_of_api_calc:smartCalc_incorrect_10:0: Passed
+tests/controller_tests.c:292:P:core_of_api_calc:smartCalc_incorrect_11:0: Passed
+tests/controller_tests.c:302:P:core_of_api_calc:smartCalc_incorrect_12:0: Passed
+tests/controller_tests.c:312:P:core_of_api_calc:smartCalc_incorrect_13:0: Passed
+tests/controller_tests.c:322:P:core_of_api_calc:smartCalc_incorrect_14:0: Passed
+tests/controller_tests.c:332:P:core_of_api_calc:smartCalc_incorrect_15:0: Passed
+Results for all suites run:
+100%: Checks: 35, Failures: 0, Errors: 0
